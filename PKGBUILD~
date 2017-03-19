@@ -7,7 +7,7 @@
 
 pkgname=messengerfordesktop-bin
 _pkgname=Facebook-Messenger-Desktop
-pkgver=2.0.7
+pkgver=2.0.1
 pkgrel=1
 pkgdesc="Beautiful desktop client for Facebook Messenger. Chat without being distracted by your feed or notifications."
 arch=('i686' 'x86_64')
